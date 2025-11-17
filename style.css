@@ -402,7 +402,7 @@ opacity: 0;
 /* FOOTER */
 
 footer {
-    background-color: black;
+    background-color: #0f55ec;
 }
 
 
@@ -451,6 +451,8 @@ color: white;
 transform: translateX(60px);
 opacity: 1;
 }
+
+
 
 /* Small phones, tablets, large smartphones*/
 
