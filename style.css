@@ -452,7 +452,16 @@ transform: translateX(60px);
 opacity: 1;
 }
 
+.footer__copyright {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 3;
+}
 
+.footer__note {
+    color: pink;
+}
 
 /* Small phones, tablets, large smartphones*/
 
