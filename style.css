@@ -408,6 +408,7 @@ opacity: 0;
     text-align: center;
     margin-top: 100px;
     margin-bottom: 100px;
+    animation: animate-profile-picture 900ms 100ms backwards;
 }
 
 /* Title */
