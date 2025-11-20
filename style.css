@@ -399,6 +399,38 @@ opacity: 0;
     color: #fff;
 }
 
+/* CONTACT PAGE */
+
+.contact-me__info--container {
+    align-items: center;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/* Title */
+.contact-me__info--container h2 {
+  margin-bottom: 0.5rem;   /* space under title */
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+/* Paragraph */
+.contact-me__info--container p {
+  margin-bottom: 1.5rem;   /* pushes icons down */
+  font-size: 1rem;
+  color: #555;             /* optional softer text */
+}
+
+/* Icon links */
+.contact-me__info--container .about-me__link {
+  margin: 0 0.75rem;        /* spacing between icons */
+  font-size: 1.8rem;        /* icon size */
+  display: inline-block;
+}
+
 /* FOOTER */
 
 footer {
